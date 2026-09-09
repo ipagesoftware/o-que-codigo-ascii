@@ -1,6 +1,6 @@
 # O que é o código ASCII? Confira a tabela completa e para que serve
 
-> **Fonte:** Por André Sugai, para o *TechTudo*
+> **Fonte:** Por André Sugai.
 
 O código **ASCII** é amplamente utilizado para a conversão de código binário para letras do alfabeto (maiúsculas e minúsculas), números e símbolos. Descubra para que o código foi criado, sua história e o que é possível criar com ele.
 
