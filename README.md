@@ -203,3 +203,7 @@ Os caracteres podem ser arranjados para formar imagens completas, monocromática
 * **Galerias Gratuitas:** O site [Asciiart.eu](https://www.asciiart.eu) possui uma vasta coleção de imagens produzidas por artistas da comunidade.
 
 Mesmo sendo um padrão criado na década de 1960, o código ASCII permanece sendo a fundação para tabelas de caracteres mais modernas (como UTF-8) e continua extremamente útil e divertido para estudantes de programação e profissionais de TI.
+
+## 📄 Licença e Uso
+
+Este documento pode ser distribuído, modificado e compartilhado livremente para fins educacionais, estudos de arquitetura de software e análise de mercado de TI.
